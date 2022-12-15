@@ -102,6 +102,11 @@ table {
     --dark-grey: #2C2F33;
     --dsh: #F59E12;
     --patreon: #f96854;
+    background: url("../img/forms.png");
+    background-size: 80%;
+    background-clip: padding-box;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 html, body {
